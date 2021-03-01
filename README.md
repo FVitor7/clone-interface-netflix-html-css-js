@@ -1,15 +1,5 @@
 
-<!-- Badges session -->
-<p align="center">  
-  <!-- languages -->
-  <img src="https://img.shields.io/github/languages/count/FVitor7/clone-interface-netflix-html-css-js?style=social" alt="Linguagens utilizadas">
-  <!-- repo size -->
-  <img src="https://img.shields.io/github/repo-size/FVitor7/clone-interface-netflix-html-css-js?style=social" alt="Tamanho do repositório">
-  <!-- last commit -->
-  <img src="https://img.shields.io/github/last-commit/FVitor7/clone-interface-netflix-html-css-js?style=social" alt="Último commit">
-  <!-- licence MIT -->
-  <img src="https://img.shields.io/github/license/FVitor7/clone-interface-netflix-html-css-js?style=social" alt="Licença MIT">
-</p>
+
 
 <!--About session-->
 <h1 align="center">Frontend do Netflix<br>Digital Innovation One</h1>
