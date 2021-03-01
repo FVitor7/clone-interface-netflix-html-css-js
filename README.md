@@ -24,7 +24,7 @@ Este projeto tem algumas alterações que buscam melhorar a versão disponibiliz
 
 <i>OBS.: os links de navegação do site estão desativados.</i>
 
-- [Projeto desenvolvido](https://fvitor7.github.io/netflix)
+- [Projeto desenvolvido](https://clonenetflix-psi.vercel.app/)
 
 
 
