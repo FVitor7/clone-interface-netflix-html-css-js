@@ -1,0 +1,165 @@
+:root{
+    --vermelho:#E50914;
+    --preta:#141414;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/*elementos base*/
+@font-face {
+    font-family: "NetflixText";
+    src: url('https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Md.woff2') format("woff2");
+  }
+
+@font-face {
+    font-family: "NetflixLogo";
+    src: url('https://assets.nflxext.com/ffe/siteui/fonts/nf-icon-v1-93.woff') format("woff");
+}
+
+body{
+   background: var(--preta);
+   font-family: 'NetflixText';
+   color:white;
+}
+
+
+header .container{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.logo {
+    max-width: 120px; /* tamanho da logo na tela */
+    margin-left: 5px; /* espaçamento entre o lado esquerdo da tela e a logo */
+}
+
+
+header nav a{
+    text-decoration:none;
+    color:#AAA;
+    margin-right: 10px;
+}
+
+
+header nav a:hover{
+    color:#fff;
+}
+
+/*filme principal*/
+.filme-principal{
+    font-size:16px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/src/img/capa-house.jpg');
+
+    height:400px;
+    background-size:cover;
+ 
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+
+.filme-principal .descricao{
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+
+.filme-principal .titulo{
+    margin-top: 15%;
+    font-size: 40px;
+    font-family: 'NetflixText';
+}
+
+.button{
+    background-color: rgba(0,0,0,.50);
+    border:none;
+    color: white;
+
+    padding:15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.button:hover{
+    background-color:white;
+    color:black;
+}
+
+.button i{
+    margin-right: 8px;
+}
+
+
+.container{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+    width: 70%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+    cursor: pointer;
+}
+
+.title-list-filmes{
+    margin-top:10px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+
+.carrosel-filmes{
+    margin-top:5px;
+}
+
+/* início da estilização do footer */
+.baseboard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    font-size: 15px;    
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.baseboard a {
+    color: var(--color-text-primary);
+}
+/* fim da estilização do footer */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
