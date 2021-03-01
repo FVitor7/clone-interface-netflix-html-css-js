@@ -1,6 +1,3 @@
-
-
-
 <!--About session-->
 <h1 align="center">Frontend do Netflix<br>Digital Innovation One</h1>
 
