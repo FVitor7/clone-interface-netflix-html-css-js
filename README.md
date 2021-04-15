@@ -3,7 +3,7 @@
 
 > Preview do projeto online.
 
-![Alt Text](https://github.com/FVitor7/Bot-do-telegram-para-rastrear-Codigo-dos-Correios/raw/main/Preview.gif)
+![Alt Text](https://github.com/FVitor7/clone-interface-netflix-html-css-js/raw/master/Preview.gif)
 
 
 Projeto faz parte do Bootcamp everis FullStack Developer da [Digital Innovation One](https://digitalinnovation.one/).
