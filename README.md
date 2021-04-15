@@ -1,6 +1,11 @@
 <!--About session-->
 <h1 align="center">Frontend do Netflix<br>Digital Innovation One</h1>
 
+> Preview do projeto online.
+
+![Alt Text](https://github.com/FVitor7/Bot-do-telegram-para-rastrear-Codigo-dos-Correios/raw/main/Preview.gif)
+
+
 Projeto faz parte do Bootcamp everis FullStack Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
 Interface recriada utilizando HTML5, CSS3 e JavaScript. É utilizado técnicas de CSS3 como: containers, variáveis e flexbox. Além de como utilizar o Jquery na aplicação.
